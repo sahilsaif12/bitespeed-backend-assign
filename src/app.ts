@@ -1,5 +1,4 @@
-// const express = require('express');
-// const setRoutes  = require('./routes/index.ts');
+import 'dotenv/config';
 import express from 'express';
 import setRoutes from './routes/index';
 

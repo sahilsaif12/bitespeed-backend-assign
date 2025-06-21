@@ -1,12 +1,11 @@
 import { Router } from 'express';
+import { identifyContact } from '../controllers/contact.controller';
 const router = Router();
-// Example controller import
-// const ContactController = require('../../controllers/contact');
-// const contactController = new ContactController();
 
-// Example GET /contact
 router.get('/', (req, res) => {
     res.send('This is GET request , to test the identify route use POST req with json body!');
-});
+})
+    .post('/', identifyContact)
+
 
 export default router;
