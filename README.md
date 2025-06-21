@@ -5,7 +5,8 @@ A TypeScript-based Express backend using Drizzle ORM and Neon serverless Postgre
 ---
 ## Live- https://bitespeed-backend-assign.onrender.com 
 
-### To indentify endpoint use this url and do POST request- https://bitespeed-backend-assign.onrender.com/identify
+#### To test /indentify endpoint use this url and do POST request- 
+https://bitespeed-backend-assign.onrender.com/identify
 
 ## Table of Contents
 
