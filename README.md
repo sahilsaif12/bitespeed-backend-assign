@@ -51,8 +51,7 @@ bitespeed backend assignment
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
-   cd "bitespeed backend assignment"
+   git clone git@github.com:sahilsaif12/bitespeed-backend-assign.git
    ```
 
 2. **Install dependencies:**
